@@ -12,6 +12,8 @@ Exploratory Data Analysis (EDA) using both manual and automated methods (e.g., A
 
 
 
+
+
 Step B: Clustering and Anomaly Detection
 
 This section covers:
@@ -22,6 +24,8 @@ Identification and elimination of anomalies using clustering techniques.
 Imputation of missing values where necessary.
 
 Feature engineering and selection processes.
+
+
 
 
 Step C: Machine Learning Modeling with AutoML
