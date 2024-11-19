@@ -2,7 +2,7 @@ Step A:
 
 Detailed Data Preprocessing and EDA
 
-This section includes a comprehensive analysis of the NYC Taxi dataset, with:
+This section includes a comprehensive analysis of the NYC Taxi dataset, with
 
 
 Visualizations for insights into the data structure and trends.
