@@ -1,4 +1,5 @@
-Step A: Detailed Data Preprocessing and EDA
+Step A: 
+Detailed Data Preprocessing and EDA
 
 This section includes a comprehensive analysis of the NYC Taxi dataset, with:
 
@@ -14,7 +15,8 @@ Exploratory Data Analysis (EDA) using both manual and automated methods (e.g., A
 
 
 
-Step B: Clustering and Anomaly Detection
+Step B: 
+Clustering and Anomaly Detection
 
 This section covers:
 
@@ -28,7 +30,8 @@ Feature engineering and selection processes.
 
 
 
-Step C: Machine Learning Modeling with AutoML
+Step C: 
+Machine Learning Modeling with AutoML
 
 This section demonstrates:
 
